@@ -9,4 +9,5 @@ xcshareddata
 
 # MACOS files
 .DS_Store
-
+DerivedData
+build
